@@ -22,4 +22,4 @@ jobs:
 
     - name: Upload to S3
       run: |
-        aws s3 cp *.html s3://${{ secrets.AWS_BUCKET_NAME }}/
+        aws s3 cp . s3://${{ secrets.AWS_BUCKET_NAME }}/ --recursively --include "*.html"
