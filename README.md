@@ -71,11 +71,21 @@ This is a simple practice on how to use github actions ci_cd to deploy a simple 
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e827bc1-49f7-4d11-ab0d-e1edda8976f9" alt="Description of image" width="1200">
+  <img src="https://github.com/user-attachments/assets/731ceaa7-a686-4d2d-b3c4-0655510aa7ae" alt="Description of image" width="1200">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c8a8a27f-ee2d-4118-9d25-74c9ad642366" alt="Description of image" width="1200">
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/637b55c9-44fd-473a-82ed-ac9c6d5dbd53" alt="Description of image" width="1200">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cf34f402-57e2-4953-abae-df118d612471" alt="Description of image" width="1200">
+</p>
+
 
 
